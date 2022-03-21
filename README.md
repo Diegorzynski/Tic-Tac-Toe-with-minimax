@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-with-minimax
+# Tic-Tac-Toe-with-minimax algorithm
